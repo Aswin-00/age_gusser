@@ -1,5 +1,5 @@
-from datetime import *
-from tkinter import *
+from datetime import * # 
+from tkinter import * #only worker if tkinter is installed 
 
 win=Tk()
 win.geometry("288x100")
